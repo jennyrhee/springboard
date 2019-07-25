@@ -26,13 +26,11 @@ Please list the names of the facilities that do. */
 SELECT DISTINCT name
   FROM  Facilities 
  WHERE membercost > 0;
--- Tennis Court 1, Tennis Court 2, Massage Room 1 Massage Room 2, Squash Court
 
 /* Q2: How many facilities do not charge a fee to members? */
 SELECT COUNT(DISTINCT name) 
-FROM  Facilities 
-WHERE membercost = 0;
--- 4
+  FROM  Facilities 
+ WHERE membercost = 0;
 
 /* Q3: How can you produce a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost?
