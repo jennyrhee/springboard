@@ -1,10 +1,23 @@
 # Springboard
+
 Contains my solutions to mini projects from the Springboard curriculum
 
 ## Table of Contents
+
+### Data Retrieval
+
 1. [JSON Mini Project](https://github.com/jennyrhee/springboard/tree/master/json_mini_project)  
-Answer questions regarding countries with the most projects and the top major project themes using the World Bank Projects dataset.
+Answer questions regarding countries with the most projects and the top major project themes using the World Bank Projects dataset
 2. [SQL Mini Project](https://github.com/jennyrhee/springboard/blob/master/sql_miniproject/sql_project.sql)  
-Answer questions using a country club database. 
+Answer questions using a country club database
 3. [API Mini Project](https://github.com/jennyrhee/springboard/blob/master/api_miniproject/api_data_wrangling_mini_project.ipynb)  
-Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchange using the Quandl API.
+Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchange using the Quandl API
+
+### Statistics: Experimental Design and Hypothesis Testing
+
+4. [Frequentist Inference Part 1](https://github.com/jennyrhee/springboard/blob/master/frequentist_inference/frequentist_inference_1a.ipynb)  
+   Sampling for the Normal distribution, sampling distributions, Central Limit Theorem, and confidence intervals
+5. [Frequentist Inference Part 2](https://github.com/jennyrhee/springboard/blob/master/frequentist_inference/frequentist_inference_1b.ipynb)  
+   Frequentist hypothesis testing using a hospital's medical charges dataset
+6. [Bootstrap Inference](https://github.com/jennyrhee/springboard/blob/master/bootstrap_inference/bootstrap_inference.ipynb)  
+   Hypothesis testing using bootstrapping and a hospital's medical charges dataset
