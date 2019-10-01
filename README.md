@@ -21,3 +21,5 @@ Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchang
    Frequentist hypothesis testing using a hospital's medical charges dataset
 6. [Bootstrap Inference](https://github.com/jennyrhee/springboard/blob/master/bootstrap_inference/bootstrap_inference.ipynb)  
    Hypothesis testing using bootstrapping and a hospital's medical charges dataset
+7. [Bayesian Inference](https://github.com/jennyrhee/springboard/blob/master/bayesian_inference/bayesian_inference.ipynb)  
+   Modeling the distribution of individual charges using Bayesian inference (PyMC3)
