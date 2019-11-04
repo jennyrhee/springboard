@@ -27,6 +27,6 @@ Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchang
 ### Machine Learning
 
 8. [Linear Regression](https://github.com/jennyrhee/springboard/blob/master/linear_regression/linear-regression.ipynb)  
-   Linear regression fundamentals and exercises using the Boston housing dataset
+   Linear regression fundamentals and exercises using the Boston housing dataset to predict house prices
 9. [Logistic Regression](https://github.com/jennyrhee/springboard/blob/master/logistic_regression/logistic-regression.ipynb)  
    Logistic regression fundamentals and exercises using a dataset to predict gender based on heights and weights
