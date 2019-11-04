@@ -23,3 +23,10 @@ Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchang
    Hypothesis testing using bootstrapping and a hospital's medical charges dataset
 7. [Bayesian Inference](https://github.com/jennyrhee/springboard/blob/master/bayesian_inference/bayesian_inference.ipynb)  
    Modeling the distribution of individual charges using Bayesian inference (PyMC3)
+
+### Machine Learning
+
+8. [Linear Regression](https://github.com/jennyrhee/springboard/blob/master/linear_regression/linear-regression.ipynb)  
+   Linear regression fundamentals and exercises using the Boston housing dataset
+9. [Logistic Regression](https://github.com/jennyrhee/springboard/blob/master/logistic_regression/logistic-regression.ipynb)  
+   Logistic regression fundamentals and exercises using a dataset to predict gender based on heights and weights
