@@ -30,3 +30,5 @@ Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchang
    Linear regression fundamentals and exercises using the Boston housing dataset to predict house prices
 9. [Logistic Regression](https://github.com/jennyrhee/springboard/blob/master/logistic_regression/logistic-regression.ipynb)  
    Logistic regression fundamentals and exercises using a dataset to predict gender based on heights and weights
+10. [Naive Bayes](https://github.com/jennyrhee/springboard/blob/master/naive_bayes/naive-bayes.ipynb)  
+   Naive Bayes fundamentals and exercises using a Rotten Tomatoes dataset for sentiment analysis
