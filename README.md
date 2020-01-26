@@ -32,3 +32,5 @@ Answer questions about Carl Zeiss Meditec's stock on the Frankfurt Stock Exchang
    Logistic regression fundamentals and exercises using a dataset to predict gender based on heights and weights
 10. [Naive Bayes](https://github.com/jennyrhee/springboard/blob/master/naive_bayes/naive-bayes.ipynb)  
    Naive Bayes fundamentals and exercises using a Rotten Tomatoes dataset for sentiment analysis
+11. [Clustering](https://github.com/jennyrhee/springboard/blob/master/clustering/clustering.ipynb)  
+   Clustering fundamentals and exercises using a marketing campaign dataset with wine
